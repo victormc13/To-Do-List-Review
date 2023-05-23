@@ -1,6 +1,6 @@
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="banner.**jpg**" alt="logo" />
+  <img src="banner.jpg" alt="logo" />
   <br/>
 
   <h1><b>To-Do-List-Review</b></h1>
