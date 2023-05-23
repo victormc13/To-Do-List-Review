@@ -132,7 +132,6 @@ export const renderTasks = () => {
   });
 };
 
-
 export const addTask = (description) => {
   const index = tasks.length + 1;
   tasks.push({
@@ -142,7 +141,7 @@ export const addTask = (description) => {
   });
   saveTasks();
   renderTasks();
-}
+};
 
 const updateTaskIndexes = () => {
   tasks.forEach((task, index) => {
@@ -161,5 +160,4 @@ export const clearCompletedTasks = () => {
   updateTaskIndexes();
   saveTasks();
   renderTasks();
-}
-
+};
