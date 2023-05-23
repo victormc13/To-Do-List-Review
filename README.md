@@ -1,9 +1,9 @@
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="/banner.jpg" alt="logo" />
+  <img src="banner.**jpg**" alt="logo" />
   <br/>
 
-  <h1><b>To-Do-List</b></h1>
+  <h1><b>To-Do-List-Review</b></h1>
 
 </div>
 
@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[To-Do-List\] ](#-to-do-list-)
+- [📖 \[To-Do-List-Review\] ](#-to-do-list-review-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,11 +31,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To-Do-List] <a name="about-project"></a>
+# 📖 [To-Do-List-Review] <a name="about-project"></a>
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 
-**[To-Do-List]** is a ToDo list with pending task with a minimalistic style using.
+**[To-Do-List-Review]** is a code review of my ToDo list with pending task with a minimalistic style using.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -143,7 +143,7 @@ Example command:
 
 To run the project, execute the following command:
 
-- go to the folder where you cloned the repository
+- Go to the folder where you cloned the repository
 - Open the index.html file with your favorite web browser
 
 <!--
